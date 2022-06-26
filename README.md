@@ -7,6 +7,11 @@
 ---
 ##  Primeros Pasos:
 
+#### 🔹 Para acceder al sistema usa:
+
+ ⭐ Usuario: prueba
+ ⭐ Pass: prueba123.
+
 #### 🔹 Marca este proyecto con una ⭐
 #### 🔹 Sigue las orientaciones que tenemos en este repositorio. 📚
 #### 🔹 ¡Visita la página del desafío haciendo clic aquí! [Link do Challenge](https://www.aluracursos.com/challenges/oracle-one-java) 📃
